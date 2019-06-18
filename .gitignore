@@ -376,3 +376,5 @@ packages/FluentAssertions.5.7.0/FluentAssertions.5.7.0.nupkg
 packages/FluentAssertions.5.7.0/.signature.p7s
 CodingDojoGauge/obj/Any CPU/Debug/CodingDojoGauge.csproj.CoreCompileInputs.cache
 CodingDojoGauge/obj/Any CPU/Debug/CodingDojoGauge.csproj.CopyComplete
+CodingDojoServices/obj/Debug/CodingDojoServices.csprojAssemblyReference.cache
+CodingDojoDomain/obj/Debug/CodingDojoDomain.csprojAssemblyReference.cache
