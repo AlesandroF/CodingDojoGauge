@@ -1,0 +1,19 @@
+22:53:04.128 Plugin csharp is already installed.
+22:53:04.148 Plugin html-report is already installed.
+22:53:05.553 Checking updates...
+22:53:05.556 Downloading https://downloads.gauge.org/plugin/csharp?l=csharp&p=csharp,dotnet,html-report,screenshot&o=windows&a=amd64
+22:53:06.682 Downloading https://downloads.gauge.org/plugin/dotnet?l=csharp&p=csharp,dotnet,html-report,screenshot&o=windows&a=amd64
+22:53:07.103 Downloading https://downloads.gauge.org/plugin/html-report?l=csharp&p=csharp,dotnet,html-report,screenshot&o=windows&a=amd64
+22:53:07.399 Downloading https://downloads.gauge.org/plugin/screenshot?l=csharp&p=csharp,dotnet,html-report,screenshot&o=windows&a=amd64
+22:53:11.007 Api Request Received: messageType:GetStepValueRequest messageId:63696408790981 stepValueRequest:<stepText:"O funcionario recebe <salario> e com <desconto> de descontos, ele acaba recebendo liquido <resultado> reais" > 
+22:53:11.011 Sending API response: messageType:GetStepValueResponse messageId:63696408790981 stepValueResponse:<stepValue:<stepValue:"O funcionario recebe {} e com {} de descontos, ele acaba recebendo liquido {} reais" parameterizedStepValue:"O funcionario recebe <salario> e com <desconto> de descontos, ele acaba recebendo liquido <resultado> reais" parameters:"salario" parameters:"desconto" parameters:"resultado" > > 
+22:53:11.069 Closing connection [127.0.0.1:50643] cause: EOF
+22:53:11.372 # Dojo
+22:53:11.383 ## Calcular o salario liquido
+22:53:11.394 * O funcionario recebe {} e com {} de descontos, ele acaba recebendo liquido {} reais
+22:53:13.138 Closing connection [127.0.0.1:50646] cause: EOF
+22:53:13.232 Plugin [Html Report] with pid [9856] has exited
+22:53:13.435 Specifications:	1 executed	1 passed	0 failed	0 skipped
+22:53:13.437 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+22:53:13.441 
+Total time taken: 901ms

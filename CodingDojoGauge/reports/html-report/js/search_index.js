@@ -1,0 +1,1 @@
+var index = {"Tags":{"calculo":["specs/dojo.html"],"dojo":["specs/dojo.html"],"salario":["specs/dojo.html"]},"Specs":{"Dojo":["specs/dojo.html"]}};
